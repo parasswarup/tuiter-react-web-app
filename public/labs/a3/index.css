@@ -196,6 +196,13 @@ p#id-selector-2 {
     background-color: red;
     color: white;
 }
+.rotate-list-cc {
+    transform: rotate(-12deg);
+    width: 100px;
+    background-color: red;
+    color: white;
+}
+
 .rotate-list-items li {
     width: 100px;
     text-align: right;
@@ -375,31 +382,31 @@ p#id-selector-2 {
 }
 @media (min-width: 0px) and (max-width: 600px) {
     .header {
-        background-color: yellow;
+        background-color: blue;
     }
     .media-query {
-        background-color: rebeccapurple;
-        color: white;
+        background-color: rosybrown;
+        color: teal;
     }
 }
 @media (min-width: 600px) and (max-width: 1200px) {
     .header {
-        background-color: blue;
-        color: white;
+        background-color: cadetblue;
+        color: yellowgreen;
     }
     .media-query {
-        background-color: lightgray;
-        color: black;
+        background-color: navajowhite;
+        color: green;
     }
 }
 @media (min-width: 1200px) and (max-width: 1800px) {
     .header {
-        background-color: lightcoral;
-        color: green;
+        background-color: fuchsia;
+        color: blue;
     }
     .media-query {
-        background-color: darkslateblue;
-        color: white;
+        background-color: orange;
+        color: lavender;
     }
 }
 
