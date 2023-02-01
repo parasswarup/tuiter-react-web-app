@@ -1,0 +1,144 @@
+body {
+    color: white;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    border-color: rgb(47, 51, 54);
+
+}
+.wd-bookmark {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 16px;
+    margin-top: 12px;
+
+}
+.wd-border {
+    border-bottom: 1px solid;
+
+}
+.wd-handle-gray {
+    color: gray;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-bottom: 12px;
+    font-size: 13px;
+
+}
+.wd-img-round {
+    border-radius: 50%;
+    margin-top: 12px;
+    margin-left: 16px;
+    display: inline;
+    vertical-align: middle;
+    float: left;
+    clear: both;
+    width: 48px;
+    height: 48px;
+
+}
+.wd-author-name {
+    font-size: 15px;
+    margin-top: 12px;
+    margin-left: 12px;
+    display: inline-block;
+
+}
+.wd-author-handle {
+    margin-top: 12px;
+    color: lightgray;
+    display: inline-block;
+    font-size: 15px;
+
+
+}
+.wd-post-content {
+    font-size: 15px;
+    width: 506px;
+    display: inline-block;
+    margin-left: 12px;
+    margin-top: 0;
+    padding-right: 16px;
+    margin-bottom: 12px;
+
+
+}
+.wd-rounded-corners {
+    margin-left: 76px;
+}
+.wd-banner-img {
+    width: 504px;
+    height: 264px;
+    border: 1px solid gray;
+    border-top-right-radius: 10%;
+    border-top-left-radius: 10%;
+}
+.wd-text-content {
+    width: 477px;
+    border: solid 1px;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    font-size: 15px;
+    padding: 12px;
+    color: gray;
+    margin-bottom: 12px;
+
+}
+.wd-text-title {
+    font-weight: bold;
+    color: white;
+}
+.wd-grid {
+    font-size: 15px;
+    margin-left: 76px;
+    display: inline;
+}
+.wd-regular-grid-comment {
+    text-decoration: none;
+    color: rgb(110, 118, 125);
+    padding: 40px;
+}
+.wd-regular-grid-vote {
+    padding: 40px;
+    color: rgb(110, 118, 125);
+    text-decoration: none;
+
+}
+.wd-highlighted-grid-heart {
+    padding: 40px;
+    font-size: 22px;
+    text-decoration: none;
+    color: red;
+}
+.wd-regular-grid-share {
+    padding: 40px;
+    color: rgb(110, 118, 125);
+    text-decoration: none;
+    font-size: 25px;
+
+}
+.wd-count {
+    margin-left: 12px;
+    font-size: 15px;
+}
+.wd-dots {
+    float: right;
+    margin-right: 12px;
+    color: rgb(25, 169, 242);
+    vertical-align: top;
+    display: inline;
+
+}
+.wd-dots-grey {
+    float: right;
+    margin-right: 12px;
+    color: lightgray;
+    vertical-align: top;
+    display: inline;
+
+}
+.wd-div-border {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
