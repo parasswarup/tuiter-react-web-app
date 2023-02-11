@@ -3,11 +3,9 @@ body {
     font-size: 15px;
     color: black;
 }
-
 p {
     margin: 0;
 }
-
 .wd-search-tuiter {
     display:flex;
     flex-direction: row;
@@ -16,17 +14,14 @@ p {
     padding-left: 15px;
 
 }
-
 .wd-gear{
     color: black;
 }
-
 btn-primary-custom {
     color: #fff;
     background-color: black !important;
     border-color: black;
 }
-
 .btn-custom {
     display: inline-block;
     font-weight: 400;
@@ -46,7 +41,6 @@ btn-primary-custom {
     border-radius: 0.25rem;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-
 .wd-search{
 
     display:flex;
@@ -57,13 +51,10 @@ btn-primary-custom {
     color: lightgray;
 
 }
-
 .wd-pad-15{
     padding-left: 15px;
     padding-right: 15px;
 }
-
-
 .wd-lr-border{
     border-left: 1px solid;
     border-right: 1px solid;
@@ -72,17 +63,11 @@ btn-primary-custom {
     padding-left: 0;
     padding-right: 0;
 }
-
-
-
 .wd-tb-border {
     border-top: 1px solid;
     border-bottom: 1px solid;
     border-color: gray;
 }
-
-
-
 .list-group-item,
 .list-group-item.hover,
 .list-group-item.visited {
@@ -98,18 +83,13 @@ btn-primary-custom {
     padding: 0.75rem 1rem;
     color: black;
 }
-
 .list-group-item i {
     width: 30px;
 }
-
-
 .btn-primary {
     background-color: #4B98E9;
     border-color: #4B98E9;
 }
-
-
 .link-dark {
     text-decoration: none;
     font-size: 12px;
@@ -117,24 +97,20 @@ btn-primary-custom {
     margin: 0;
     padding: 0;
 }
-
 .nav-tabs {
     border: 0;
     justify-content: space-between;
 }
-
 .nav-tabs .nav-link {
     border: 0;
     color: #646b72;
 
 }
-
 .nav-tabs .nav-link.active {
     background-color: transparent;
     border-bottom: 3px #4B98E9 solid;
     font-weight: bold;
 }
-
 .nav-tabs .nav-link:hover {
     color: #8d8f91;
 }
