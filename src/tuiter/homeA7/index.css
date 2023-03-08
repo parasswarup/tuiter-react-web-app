@@ -1,0 +1,22 @@
+.wd-rounded-top{
+    border-top-right-radius: 15px;
+    border-top-left-radius:15px;
+    border: 1px gray solid ;
+}
+.wd-rounded-bottom{
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    background-color: black;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius:15px;
+    border: 1px gray solid ;
+}
+body{
+    background-color: black;
+}
+p{
+    margin: 0;
+    font-size: medium;
+}
