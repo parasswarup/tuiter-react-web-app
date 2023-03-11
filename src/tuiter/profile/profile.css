@@ -1,0 +1,51 @@
+.wd-container {
+    border: 1px #dddddd solid;
+    border-radius: 6px;
+}
+.wd-profile-circle img{
+    border-radius: 50px;
+}
+.wd-layover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+}
+.wd-profile-circle {
+    width: 100px;
+    height: 100px;
+    margin-top: -50px;
+    background-color: white;
+    border-radius: 50px;
+    display: flex;
+    padding: 2px;
+}
+.wd-profile-layover{
+    border-radius: 50px;
+    width: 100%;
+    height: 170%;
+    margin-top: -50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+}
+.wd-input {
+    border: 1px #dddddd solid;
+    padding: 10px;
+    border-radius: 6px;
+}
+.wd-input label {
+    font-size: 90%;
+    color:darkgrey;
+}
+.wd-input input, .wd-input textarea {
+    border: 0;
+    outline: none;
+    padding: 0;
+}
